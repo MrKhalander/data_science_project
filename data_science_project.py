@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-
-
-# Commented out IPython magic to ensure Python compatibility.
 #3D Graph Plot
 #importing the mplot3d toolkit, included with the main Matplotlib installation
 from mpl_toolkits import mplot3d
